@@ -1,0 +1,13 @@
+D:\coding\xsltDebugDemo\xsltDebugDemo\bin\Debug\netcoreapp2.1\xsltDebugDemo.deps.json
+D:\coding\xsltDebugDemo\xsltDebugDemo\bin\Debug\netcoreapp2.1\xsltDebugDemo.runtimeconfig.json
+D:\coding\xsltDebugDemo\xsltDebugDemo\bin\Debug\netcoreapp2.1\xsltDebugDemo.runtimeconfig.dev.json
+D:\coding\xsltDebugDemo\xsltDebugDemo\bin\Debug\netcoreapp2.1\xsltDebugDemo.dll
+D:\coding\xsltDebugDemo\xsltDebugDemo\bin\Debug\netcoreapp2.1\xsltDebugDemo.pdb
+D:\coding\xsltDebugDemo\xsltDebugDemo\obj\Debug\netcoreapp2.1\xsltDebugDemo.csprojAssemblyReference.cache
+D:\coding\xsltDebugDemo\xsltDebugDemo\obj\Debug\netcoreapp2.1\xsltDebugDemo.csproj.CoreCompileInputs.cache
+D:\coding\xsltDebugDemo\xsltDebugDemo\obj\Debug\netcoreapp2.1\xsltDebugDemo.AssemblyInfoInputs.cache
+D:\coding\xsltDebugDemo\xsltDebugDemo\obj\Debug\netcoreapp2.1\xsltDebugDemo.AssemblyInfo.cs
+D:\coding\xsltDebugDemo\xsltDebugDemo\obj\Debug\netcoreapp2.1\xsltDebugDemo.dll
+D:\coding\xsltDebugDemo\xsltDebugDemo\obj\Debug\netcoreapp2.1\xsltDebugDemo.pdb
+D:\coding\xsltDebugDemo\xsltDebugDemo\obj\Debug\netcoreapp2.1\xsltDebugDemo.Properties.Resources.resources
+D:\coding\xsltDebugDemo\xsltDebugDemo\obj\Debug\netcoreapp2.1\xsltDebugDemo.csproj.GenerateResource.cache
